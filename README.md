@@ -7,7 +7,7 @@ Face Mask Detection is an AI-driven project designed to identify individuals wea
 
 ## ✨ Features
 
-- **High Accuracy:** Achieved over 95% accuracy using a Convolutional Neural Network (CNN).
+- **High Accuracy:** Achieved over 93% accuracy using a Convolutional Neural Network (CNN).
 - **Real-Time Detection:** Integrates with OpenCV for real-time mask detection on live video feeds.
 - **Cross-Platform:** Deployable as a web app using Flask or Streamlit.
 - **Customizable:** Easy to adapt for various use cases, including workplaces, public spaces, and healthcare settings.

@@ -1,6 +1,5 @@
 # Face Mask Detection
 
-![Project Banner](https://via.placeholder.com/1000x300.png?text=Face+Mask+Detection)
 
 ## 📖 Overview
 
@@ -32,80 +31,6 @@ Face Mask Detection is an AI-driven project designed to identify individuals wea
 └── README.md        # Project documentation
 ```
 
-## 📋 Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/face-mask-detection.git
-   ```
 
-2. Navigate to the project directory:
-   ```bash
-   cd face-mask-detection
-   ```
 
-3. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. Download the dataset and place it in the `datasets` directory.
-
-## 🛠️ Usage
-
-### 1. Training the Model
-Run the following command to train the model:
-```bash
-python scripts/train_model.py
-```
-
-### 2. Testing the Model
-Evaluate the model's performance:
-```bash
-python scripts/test_model.py
-```
-
-### 3. Real-Time Detection
-Launch the real-time mask detection system:
-```bash
-python scripts/realtime_detection.py
-```
-
-### 4. Web Application
-Start the web app:
-```bash
-python app.py
-```
-Access the app at `http://127.0.0.1:5000`.
-
-## 📊 Results
-
-- **Accuracy:** 95% on the validation dataset
-- **Precision:** 94%
-- **Recall:** 96%
-- **Inference Speed:** <1 second per frame
-
-## 🖼️ Sample Outputs
-
-| Input Image         | Detection Output        |
-|---------------------|-------------------------|
-| ![Input1](https://via.placeholder.com/150) | ![Output1](https://via.placeholder.com/150) |
-| ![Input2](https://via.placeholder.com/150) | ![Output2](https://via.placeholder.com/150) |
-
-## 🧑‍💻 Contributors
-
-- **[Your Name](https://github.com/your-username)** - Project Lead
-
-## 📜 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## 📬 Contact
-
-For any queries, feel free to reach out:
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-
----
-
-**Empowering safety, one mask at a time.**

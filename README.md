@@ -17,7 +17,6 @@ Face Mask Detection is an AI-driven project designed to identify individuals wea
 - **Programming Languages:** Python
 - **Deep Learning Libraries:** TensorFlow, Keras
 - **Computer Vision:** OpenCV
-- **Web Framework:** Flask, Streamlit
 - **Dataset Source:** Kaggle
 
 ## 🗂️ Project Structure
